@@ -1,3 +1,4 @@
+# Full File Found in Overall Folder
 ### --- PART 1: Extract bot path from video --- ###
 dictionary = aruco.getPredefinedDictionary(aruco.DICT_4X4_100)
 parameters = aruco.DetectorParameters()

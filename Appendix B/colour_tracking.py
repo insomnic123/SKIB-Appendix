@@ -1,3 +1,4 @@
+# Full File Found in Overall Folder
 min_contour_area = 50
 min_circularity = 0.71
 positions = []
